@@ -1,0 +1,21 @@
+:root {
+  --color-brand: #3b4252;
+  --color-accent: #81a1c1;
+  --color-header-bg: #5e81ac;
+  --color-white: #eceff4;
+  --color-text: #ebcb8b;
+  --time: 250ms;
+  --cubic: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+$color-brand: #3b4252;
+$color-accent: #81a1c1;
+$color-header-bg: #5e81ac;
+$color-text: #ebcb8b;
+$color-white: #eceff4;
+
+$z-index-increment: 3;
+$z-index: ('.header');
+$padding: 20px;
+
+$gap: 3px;
